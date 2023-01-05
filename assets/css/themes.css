@@ -1,0 +1,69 @@
+#background{
+    background-color: #3A3845;
+}
+.category {
+    background-color: darkgoldenrod;
+}
+
+.photo {
+    width: 320px;
+    height: 200px;
+    
+}
+.photocard{
+    display: flex;
+    justify-content: center;
+
+}
+
+.category {
+    position: relative;
+    background-color: #F7CCAC;
+    height: 850px;
+    width: 300px;
+    border: 15px solid #826F66;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50px;
+    float: left;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+hr {
+    margin: 50px auto;
+}
+.category2 {
+    position: relative;
+    background-color: #DFD3C3;
+    height: 290px;
+    width: 300px;
+    border: 15px solid #D0B8A8;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50px;
+    float: left;
+}
+p {
+    text-align: justify;
+    color: #3A3845;
+    font-family: SanomatGrabApp,-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+}
+h1 {
+    font-family: SanomatGrabApp,-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+}
+h3{
+    text-align: center;
+}
+.full {
+    position: relative;
+    background-color: #DFD3C3;
+    height: 1000px;
+    width: 1000px;
+    border: 15px solid #D0B8A8;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50px;
+    margin: 0 auto;
+}
